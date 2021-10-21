@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathFuncsDll.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Администратор\source\repos\lab20\MathFuncsDll\x64\Debug\MathFuncsDll.lib и объект C:\Users\Администратор\source\repos\lab20\MathFuncsDll\x64\Debug\MathFuncsDll.exp
+  MathFuncsDll.vcxproj -> C:\Users\Администратор\source\repos\lab20\MathFuncsDll\x64\Debug\MathFuncsDll.dll

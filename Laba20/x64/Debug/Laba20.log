@@ -1,0 +1,1 @@
+﻿MathFuncsDll.lib(MathFuncsDll.dll) : fatal error LNK1112: тип компьютера модуля "x86" конфликтует с типом целевого компьютера "x64"
