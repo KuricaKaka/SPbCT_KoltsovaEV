@@ -1,4 +1,0 @@
-C:\Users\Администратор\source\repos\MathFuncsDll\x64\Debug\MathFuncsDll.dll
-C:\Users\Администратор\source\repos\MathFuncsDll\x64\Debug\MathFuncsDll.pdb
-C:\Users\Администратор\source\repos\lab20\MathFuncsDll\x64\Debug\MathFuncsDll.dll
-C:\Users\Администратор\source\repos\lab20\MathFuncsDll\x64\Debug\MathFuncsDll.pdb

@@ -1,2 +1,0 @@
-C:\Users\bulyn\Desktop\SPbCT_BulyninMA\Laba20\MathFuncsDll\Debug\MathFuncsDll.dll
-C:\Users\bulyn\Desktop\SPbCT_BulyninMA\Laba20\MathFuncsDll\Debug\MathFuncsDll.pdb
