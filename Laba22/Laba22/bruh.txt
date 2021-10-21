@@ -1,0 +1,10 @@
+Standart, x = 5
+after ++, x = 6
+
+Child 1, x = 6
+Child 2, x = 3
+Standart, x = 5
+after ++, x = 6
+
+Parent 1, x = 6, pid = 1408
+Parent 2, x = 8
