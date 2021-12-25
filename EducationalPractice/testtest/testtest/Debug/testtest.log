@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Администратор\source\repos\testtest\testtest\MyForm.h(240,19): warning C4441: соглашение вызова "__stdcall " игнорируется; вместо него используется "__clrcall "
+  Lib.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  testtest.vcxproj -> C:\Users\Администратор\source\repos\testtest\Debug\testtest.exe

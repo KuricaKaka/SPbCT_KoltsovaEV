@@ -1,0 +1,3 @@
+C:\Users\Администратор\source\repos\testtest\testtest\Debug\testtest.vcxprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\testtest\testtest\Debug\testtest.MyForm.resources
+C:\Users\Администратор\source\repos\testtest\testtest\Debug\testtest.vcxproj.GenerateResource.cache
